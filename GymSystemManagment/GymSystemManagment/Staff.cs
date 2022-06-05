@@ -26,5 +26,10 @@ namespace GymSystemManagment
         {
 
         }
+
+        private void Staff_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
