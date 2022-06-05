@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\source\\repos\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\projektiTI1\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\source\\repos\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\projektiTI1\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\projektiTI1\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.csproj",
         "projectName": "GymSystemManagment",
-        "projectPath": "C:\\Users\\Lenovo\\source\\repos\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\projektiTI1\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\source\\repos\\GymSystemManagment\\GymSystemManagment\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\projektiTI1\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
