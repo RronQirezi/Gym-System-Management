@@ -82,12 +82,12 @@
             // degaBtn
             // 
             this.degaBtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(77)))), ((int)(((byte)(103)))));
-            this.degaBtn.Font = new System.Drawing.Font("Bauhaus 93", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.degaBtn.Font = new System.Drawing.Font("Bauhaus 93", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.degaBtn.ForeColor = System.Drawing.Color.White;
-            this.degaBtn.Location = new System.Drawing.Point(272, 306);
+            this.degaBtn.Location = new System.Drawing.Point(288, 290);
             this.degaBtn.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.degaBtn.Name = "degaBtn";
-            this.degaBtn.Size = new System.Drawing.Size(165, 33);
+            this.degaBtn.Size = new System.Drawing.Size(165, 74);
             this.degaBtn.TabIndex = 4;
             this.degaBtn.Text = "Krijo Degen";
             this.degaBtn.UseVisualStyleBackColor = false;

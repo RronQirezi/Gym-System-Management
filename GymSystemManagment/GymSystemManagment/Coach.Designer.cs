@@ -235,10 +235,10 @@
             this.trajnerbtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(77)))), ((int)(((byte)(103)))));
             this.trajnerbtn.Font = new System.Drawing.Font("Bauhaus 93", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.trajnerbtn.ForeColor = System.Drawing.Color.White;
-            this.trajnerbtn.Location = new System.Drawing.Point(621, 490);
+            this.trajnerbtn.Location = new System.Drawing.Point(667, 491);
             this.trajnerbtn.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.trajnerbtn.Name = "trajnerbtn";
-            this.trajnerbtn.Size = new System.Drawing.Size(190, 48);
+            this.trajnerbtn.Size = new System.Drawing.Size(190, 69);
             this.trajnerbtn.TabIndex = 19;
             this.trajnerbtn.Text = "Shto Trajner";
             this.trajnerbtn.UseVisualStyleBackColor = false;
