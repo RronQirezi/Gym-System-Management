@@ -14,12 +14,18 @@ namespace GymSystemManagment
     {
         public Equipment()
         {
+            
             InitializeComponent();
         }
 
         private void label4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void cmbLangPicker_SelectedIndexChanged(object sender, EventArgs e)
+        {
+             
         }
     }
 }

@@ -42,7 +42,7 @@
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.paisjebtn = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cmbLangPicker = new System.Windows.Forms.ComboBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -128,11 +128,12 @@
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.TabStop = false;
             // 
-            // comboBox1
+            // cmbLangPicker
             // 
-            this.comboBox1.FormattingEnabled = true;
-            resources.ApplyResources(this.comboBox1, "comboBox1");
-            this.comboBox1.Name = "comboBox1";
+            this.cmbLangPicker.FormattingEnabled = true;
+            resources.ApplyResources(this.cmbLangPicker, "cmbLangPicker");
+            this.cmbLangPicker.Name = "cmbLangPicker";
+            this.cmbLangPicker.SelectedIndexChanged += new System.EventHandler(this.cmbLangPicker_SelectedIndexChanged);
             // 
             // pictureBox1
             // 
@@ -154,7 +155,7 @@
             this.CancelButton = this.paisjebtn;
             this.Controls.Add(this.label6);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.cmbLangPicker);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.paisjebtn);
             this.Controls.Add(this.dateTimePicker1);
@@ -192,7 +193,7 @@
         private DateTimePicker dateTimePicker1;
         private Button paisjebtn;
         private PictureBox pictureBox2;
-        private ComboBox comboBox1;
+        private ComboBox cmbLangPicker;
         private PictureBox pictureBox1;
         private Label label6;
     }
