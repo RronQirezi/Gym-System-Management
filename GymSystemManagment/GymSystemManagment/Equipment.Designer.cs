@@ -42,155 +42,119 @@
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.paisjebtn = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label6 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Bauhaus 93", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.label1, "label1");
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(77)))), ((int)(((byte)(103)))));
-            this.label1.Location = new System.Drawing.Point(40, 171);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(153, 23);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Emri i Paisjes :";
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Bauhaus 93", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.label2, "label2");
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(77)))), ((int)(((byte)(103)))));
-            this.label2.Location = new System.Drawing.Point(126, 247);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(67, 23);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "Lloji :";
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(81, 332);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            resources.ApplyResources(this.label3, "label3");
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(221, 23);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "Data e Regjitstrimit :";
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Bauhaus 93", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.label4, "label4");
             this.label4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(77)))), ((int)(((byte)(103)))));
-            this.label4.Location = new System.Drawing.Point(606, 171);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(120, 23);
-            this.label4.TabIndex = 3;
-            this.label4.Text = "Lokacioni :";
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label5
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Bauhaus 93", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.label5, "label5");
             this.label5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(77)))), ((int)(((byte)(103)))));
-            this.label5.Location = new System.Drawing.Point(645, 247);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(82, 23);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "Pesha :";
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(234, 168);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            resources.ApplyResources(this.textBox1, "textBox1");
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(186, 37);
-            this.textBox1.TabIndex = 5;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(772, 171);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            resources.ApplyResources(this.textBox2, "textBox2");
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(186, 37);
-            this.textBox2.TabIndex = 6;
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(772, 247);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            resources.ApplyResources(this.textBox3, "textBox3");
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(186, 37);
-            this.textBox3.TabIndex = 7;
             // 
             // radioButton1
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(234, 245);
-            this.radioButton1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            resources.ApplyResources(this.radioButton1, "radioButton1");
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(72, 27);
-            this.radioButton1.TabIndex = 8;
             this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "E RE";
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
             // radioButton2
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(356, 245);
-            this.radioButton2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            resources.ApplyResources(this.radioButton2, "radioButton2");
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(181, 27);
-            this.radioButton2.TabIndex = 9;
             this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "E TRANSFERUAR";
             this.radioButton2.UseVisualStyleBackColor = true;
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(332, 327);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            resources.ApplyResources(this.dateTimePicker1, "dateTimePicker1");
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(373, 37);
-            this.dateTimePicker1.TabIndex = 10;
             // 
             // paisjebtn
             // 
             this.paisjebtn.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(77)))), ((int)(((byte)(103)))));
-            this.paisjebtn.Font = new System.Drawing.Font("Bauhaus 93", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            resources.ApplyResources(this.paisjebtn, "paisjebtn");
             this.paisjebtn.ForeColor = System.Drawing.Color.White;
-            this.paisjebtn.Location = new System.Drawing.Point(525, 408);
-            this.paisjebtn.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.paisjebtn.Name = "paisjebtn";
-            this.paisjebtn.Size = new System.Drawing.Size(141, 73);
-            this.paisjebtn.TabIndex = 11;
-            this.paisjebtn.Text = "Shto Paisje";
             this.paisjebtn.UseVisualStyleBackColor = false;
             // 
             // pictureBox2
             // 
             this.pictureBox2.BackgroundImage = global::GymSystemManagment.Properties.Resources._2b4e3f507b891744d90fdf06f1fe89e9;
-            this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pictureBox2.Location = new System.Drawing.Point(402, 2);
-            this.pictureBox2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
+            resources.ApplyResources(this.pictureBox2, "pictureBox2");
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(322, 159);
-            this.pictureBox2.TabIndex = 21;
             this.pictureBox2.TabStop = false;
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            resources.ApplyResources(this.comboBox1, "comboBox1");
+            this.comboBox1.Name = "comboBox1";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackgroundImage = global::GymSystemManagment.Properties.Resources.download;
+            resources.ApplyResources(this.pictureBox1, "pictureBox1");
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.TabStop = false;
+            // 
+            // label6
+            // 
+            resources.ApplyResources(this.label6, "label6");
+            this.label6.Name = "label6";
             // 
             // Equipment
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 23F);
+            resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.CancelButton = this.paisjebtn;
-            this.ClientSize = new System.Drawing.Size(1200, 518);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.pictureBox1);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.paisjebtn);
             this.Controls.Add(this.dateTimePicker1);
@@ -204,13 +168,10 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Font = new System.Drawing.Font("Bauhaus 93", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(207)))), ((int)(((byte)(77)))), ((int)(((byte)(103)))));
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.Name = "Equipment";
-            this.Text = "Equipment";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -231,5 +192,8 @@
         private DateTimePicker dateTimePicker1;
         private Button paisjebtn;
         private PictureBox pictureBox2;
+        private ComboBox comboBox1;
+        private PictureBox pictureBox1;
+        private Label label6;
     }
 }

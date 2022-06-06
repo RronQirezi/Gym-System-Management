@@ -26,5 +26,24 @@ namespace GymSystemManagment
         {
 
         }
+
+        private void LogIn_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            switch (comboBox1.SelectedIndex)
+            {
+                case 0:
+                    Thread.CurrentThread.CurrentCulture=new System.Globalization.CultureInfo("en-US");  
+                    break;
+                case 1:
+                    Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("sq");
+                    break;
+            }
+            InitializeComponent();
+        }
     }
 }
