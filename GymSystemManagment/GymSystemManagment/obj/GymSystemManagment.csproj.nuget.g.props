@@ -17,6 +17,10 @@
     <Import Project="$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props" Condition="Exists('$(NuGetPackageRoot)entityframework\6.4.4\buildTransitive\netcoreapp3.0\EntityFramework.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
+    <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\Lenovo\.nuget\packages\entityframework\6.4.4</PkgEntityFramework>
+=======
     <PkgEntityFramework Condition=" '$(PkgEntityFramework)' == '' ">C:\Users\Rron Qirezi\.nuget\packages\entityframework\6.4.4</PkgEntityFramework>
+>>>>>>> e1e596cce13b914d368e207641df5b9309c4e26b
   </PropertyGroup>
 </Project>

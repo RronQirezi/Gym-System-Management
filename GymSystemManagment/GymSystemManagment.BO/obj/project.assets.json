@@ -2314,23 +2314,39 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+    "C:\\Users\\Lenovo\\.nuget\\packages\\": {},
+=======
     "C:\\Users\\Rron Qirezi\\.nuget\\packages\\": {},
+>>>>>>> e1e596cce13b914d368e207641df5b9309c4e26b
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\projektiTI1\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.BO\\GymSystemManagment.BO.csproj",
+      "projectName": "GymSystemManagment.BO",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\projektiTI1\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.BO\\GymSystemManagment.BO.csproj",
+      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\projektiTI1\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.BO\\obj\\",
+=======
       "projectUniqueName": "D:\\Detyra Fakultet\\Viti 2\\Semestri 4\\TI 1 me .net 6.0\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.BO\\GymSystemManagment.BO.csproj",
       "projectName": "GymSystemManagment.BO",
       "projectPath": "D:\\Detyra Fakultet\\Viti 2\\Semestri 4\\TI 1 me .net 6.0\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.BO\\GymSystemManagment.BO.csproj",
       "packagesPath": "C:\\Users\\Rron Qirezi\\.nuget\\packages\\",
       "outputPath": "D:\\Detyra Fakultet\\Viti 2\\Semestri 4\\TI 1 me .net 6.0\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.BO\\obj\\",
+>>>>>>> e1e596cce13b914d368e207641df5b9309c4e26b
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
+        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
         "C:\\Users\\Rron Qirezi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> e1e596cce13b914d368e207641df5b9309c4e26b
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2380,7 +2396,11 @@
             "privateAssets": "none"
           }
         },
+<<<<<<< HEAD
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+>>>>>>> e1e596cce13b914d368e207641df5b9309c4e26b
       }
     }
   }

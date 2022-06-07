@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "FeRJkOoCPYoHjnYdgQDmJfx7mm+/baGLRT115twVA6qgML2JQ5jfKSU31txDsv6u21yDOQnlO24RhB4ATWKJ/A==",
   "success": true,
   "projectFilePath": "D:\\Detyra Fakultet\\Viti 2\\Semestri 4\\TI 1 me .net 6.0\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.BO\\GymSystemManagment.BO.csproj",
@@ -49,5 +50,17 @@
     "C:\\Users\\Rron Qirezi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
     "C:\\Users\\Rron Qirezi\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
+=======
+<<<<<<< HEAD
+  "dgSpecHash": "5kCVcW/MK+rxDDZPxERt/o50/SerCBKzMli6icnf3yKjlBiOTe13QZBx7onjiz67noj7I1Kf5U5q/Sc4HCPZNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\projektiTI1\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.BO\\GymSystemManagment.BO.csproj",
+=======
+  "dgSpecHash": "iWwBpcfjCWnWa7tUIp2WRrU3QLdIJbdDaim+gkP+eYICysUCP8zoLInwqN8/4Q5YE56SGc5UTEGp9BfHqh/Egg==",
+  "success": true,
+  "projectFilePath": "D:\\Detyra Fakultet\\Viti 2\\Semestri 4\\TI 1 me .net 6.0\\GymSystemManagment\\GymSystemManagment\\GymSystemManagment.BO\\GymSystemManagment.BO.csproj",
+>>>>>>> e1e596cce13b914d368e207641df5b9309c4e26b
+  "expectedPackageFiles": [],
+>>>>>>> cecad840b69d36b65223fea569083f8a1534bb49
   "logs": []
 }
