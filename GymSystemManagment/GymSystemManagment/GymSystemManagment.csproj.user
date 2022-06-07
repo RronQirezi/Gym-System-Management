@@ -4,16 +4,28 @@
     <Compile Update="Appointment.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="AppointmentDb.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Branch.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="BranchDb.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Client.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ClientDb.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Coach.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Equipment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EquipmentDb.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="LogIn.cs">
@@ -23,6 +35,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Staff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffDb.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
